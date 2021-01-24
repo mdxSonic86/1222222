@@ -1,0 +1,638 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.abc.net.au/news/linkableblob/8413676/data/abc-news-og-data.jpg",ABC News National (YT Live)
+https://www.youtube.com/watch?v=ht6tu4Gc3ag
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.abc.net.au/news/linkableblob/8413676/data/abc-news-og-data.jpg",ABC News National
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.abc.net.au/news/image/10477576-3x2-940x627.jpg",ABC Sydney(alt)
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/4f16fd0d74ca4bfd93ed043330b0c010/index.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.abc.net.au/news/image/10477576-3x2-940x627.jpg",ABC Melbourne
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8dfc66234f084ed881c52687b675b592/index.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.abc.net.au/news/image/10477576-3x2-940x627.jpg",ABC Brisbane
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/2dfc66233f7884ed7q1c52687b675f15/index.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.abc.net.au/news/image/10477576-3x2-940x627.jpg",ABC Adelaide
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/a8394228ceca4b5e9a98cd55c76f4f1b/index.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.abc.net.au/news/image/10477576-3x2-940x627.jpg",ABC Perth
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/c0454ca8272945cf8f5c3169aab5d236/index.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.abc.net.au/news/image/10477576-3x2-940x627.jpg",ABC Canberra
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/3cb8838788204f08ad02b0b9fe0ace66/index.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.abc.net.au/news/image/10477576-3x2-940x627.jpg",ABC Darwin
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/96ac4f18be7e42e49584d34d0db5df83/index.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.abc.net.au/news/image/10477576-3x2-940x627.jpg",ABC Hobart
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/40903e6a14ae4487897ca7fb37f02d69/index.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/0192abd3-747c-47d7-9664-cc5aa794f135.png",ABC Comedy/Kids National
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/3c7653c38e0e40fbbbaeaefb02ae6fd1/index.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://cdn.iview.abc.net.au/thumbs/1200/ls/LS1603H001S00_5cca44364a0b8_1020.jpg",ABC Me National
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/c2a88b3fcefb4920b6b52134a453ed9c/index.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Flogok.org%2Fseven-network-logo%2F&psig=AOvVaw2bnrMh4u2sJP7W-d6wNha7&ust=1611577163258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCyv_jGtO4CFQAAAAAdAAAAABAN",Seven Sydney
+https://npc.cdn.7livecloud.io/hls/live/SYD1/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Flogok.org%2Fseven-network-logo%2F&psig=AOvVaw2bnrMh4u2sJP7W-d6wNha7&ust=1611577163258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCyv_jGtO4CFQAAAAAdAAAAABAN",Seven Melbourne
+https://npc.cdn.7livecloud.io/hls/live/MEL1/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Flogok.org%2Fseven-network-logo%2F&psig=AOvVaw2bnrMh4u2sJP7W-d6wNha7&ust=1611577163258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCyv_jGtO4CFQAAAAAdAAAAABAN",Seven Brisbane
+https://npc.cdn.7livecloud.io/hls/live/BRI1/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Flogok.org%2Fseven-network-logo%2F&psig=AOvVaw2bnrMh4u2sJP7W-d6wNha7&ust=1611577163258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCyv_jGtO4CFQAAAAAdAAAAABAN",Seven Adelaide
+https://npc.cdn.7livecloud.io/hls/live/ADE1/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Flogok.org%2Fseven-network-logo%2F&psig=AOvVaw2bnrMh4u2sJP7W-d6wNha7&ust=1611577163258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCyv_jGtO4CFQAAAAAdAAAAABAN",Seven Perth
+https://npc.cdn.7livecloud.io/hls/live/PER1/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Flogok.org%2Fseven-network-logo%2F&psig=AOvVaw2bnrMh4u2sJP7W-d6wNha7&ust=1611577163258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCyv_jGtO4CFQAAAAAdAAAAABAN",Seven Cairns
+https://npc.cdn.7livecloud.io/hls/live/CNS1/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Flogok.org%2Fseven-network-logo%2F&psig=AOvVaw2bnrMh4u2sJP7W-d6wNha7&ust=1611577163258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCyv_jGtO4CFQAAAAAdAAAAABAN",Seven Mackay
+https://npc.cdn.7livecloud.io/hls/live/MKY1/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Flogok.org%2Fseven-network-logo%2F&psig=AOvVaw2bnrMh4u2sJP7W-d6wNha7&ust=1611577163258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCyv_jGtO4CFQAAAAAdAAAAABAN",Seven Rockhamption
+https://npc.cdn.7livecloud.io/hls/live/RKY1/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Flogok.org%2Fseven-network-logo%2F&psig=AOvVaw2bnrMh4u2sJP7W-d6wNha7&ust=1611577163258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCyv_jGtO4CFQAAAAAdAAAAABAN",Seven Sunshine Coast
+https://npc.cdn.7livecloud.io/hls/live/SSC1/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Flogok.org%2Fseven-network-logo%2F&psig=AOvVaw2bnrMh4u2sJP7W-d6wNha7&ust=1611577163258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCyv_jGtO4CFQAAAAAdAAAAABAN",Seven Gold Coast
+https://npc.cdn.7livecloud.io/hls/live/GLD1/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Flogok.org%2Fseven-network-logo%2F&psig=AOvVaw2bnrMh4u2sJP7W-d6wNha7&ust=1611577163258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCyv_jGtO4CFQAAAAAdAAAAABAN",Seven Toowoomba
+https://npc.cdn.7livecloud.io/hls/live/TWB1/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Flogok.org%2Fseven-network-logo%2F&psig=AOvVaw2bnrMh4u2sJP7W-d6wNha7&ust=1611577163258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCyv_jGtO4CFQAAAAAdAAAAABAN",Seven Townsville
+https://npc.cdn.7livecloud.io/hls/live/TSV1/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Flogok.org%2Fseven-network-logo%2F&psig=AOvVaw2bnrMh4u2sJP7W-d6wNha7&ust=1611577163258000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCyv_jGtO4CFQAAAAAdAAAAABAN",Seven Wide Bay
+https://npc.cdn.7livecloud.io/hls/live/WBY1/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2F7twoau&psig=AOvVaw1ULVTAwtR6HEKxa0qlHL5u&ust=1611577208540000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjviYvHtO4CFQAAAAAdAAAAABAI",7TWO Sydney
+https://npc.cdn.7livecloud.io/hls/live/SYD2/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2F7twoau&psig=AOvVaw1ULVTAwtR6HEKxa0qlHL5u&ust=1611577208540000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjviYvHtO4CFQAAAAAdAAAAABAI",7TWO Melbourne
+https://npc.cdn.7livecloud.io/hls/live/MEL2/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2F7twoau&psig=AOvVaw1ULVTAwtR6HEKxa0qlHL5u&ust=1611577208540000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjviYvHtO4CFQAAAAAdAAAAABAI",7TWO Brisbane
+https://npc.cdn.7livecloud.io/hls/live/BRI2/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2F7twoau&psig=AOvVaw1ULVTAwtR6HEKxa0qlHL5u&ust=1611577208540000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjviYvHtO4CFQAAAAAdAAAAABAI",7TWO Adelaide
+https://npc.cdn.7livecloud.io/hls/live/ADE2/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2F7twoau&psig=AOvVaw1ULVTAwtR6HEKxa0qlHL5u&ust=1611577208540000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjviYvHtO4CFQAAAAAdAAAAABAI",7TWO Perth
+https://npc.cdn.7livecloud.io/hls/live/PER2/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2F7twoau&psig=AOvVaw1ULVTAwtR6HEKxa0qlHL5u&ust=1611577208540000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjviYvHtO4CFQAAAAAdAAAAABAI",7TWO Regional QLD
+https://npc.cdn.7livecloud.io/hls/live/QLD2/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/7mate_LOGO_RGB_large.jpg?resize=290%2C200",7mate Sydney
+https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/7mate_LOGO_RGB_large.jpg?resize=290%2C201",7mate Melbourne
+https://npc.cdn.7livecloud.io/hls/live/MEL3/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/7mate_LOGO_RGB_large.jpg?resize=290%2C202",7mate Brisbane
+https://npc.cdn.7livecloud.io/hls/live/BRI3/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/7mate_LOGO_RGB_large.jpg?resize=290%2C203",7mate Adelaide
+https://npc.cdn.7livecloud.io/hls/live/ADE3/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/7mate_LOGO_RGB_large.jpg?resize=290%2C204",7mate Perth
+https://npc.cdn.7livecloud.io/hls/live/PER3/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/7mate_LOGO_RGB_large.jpg?resize=290%2C205",7mate Regional QLD
+https://npc.cdn.7livecloud.io/hls/live/QLD3/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeview.com.au%2Ftv-guide&psig=AOvVaw1vXLXfsYgPMBvR1Y8xX6Q6&ust=1611577250295000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMid8qDHtO4CFQAAAAAdAAAAABAD",7flix Sydney
+https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeview.com.au%2Ftv-guide&psig=AOvVaw1vXLXfsYgPMBvR1Y8xX6Q6&ust=1611577250295000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMid8qDHtO4CFQAAAAAdAAAAABAD",7flix Melbourne
+https://npc.cdn.7livecloud.io/hls/live/MEL6/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeview.com.au%2Ftv-guide&psig=AOvVaw1vXLXfsYgPMBvR1Y8xX6Q6&ust=1611577250295000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMid8qDHtO4CFQAAAAAdAAAAABAD",7flix Brisbane
+https://npc.cdn.7livecloud.io/hls/live/BRI6/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeview.com.au%2Ftv-guide&psig=AOvVaw1vXLXfsYgPMBvR1Y8xX6Q6&ust=1611577250295000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMid8qDHtO4CFQAAAAAdAAAAABAD",7flix Adelaide
+https://npc.cdn.7livecloud.io/hls/live/ADE6/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeview.com.au%2Ftv-guide&psig=AOvVaw1vXLXfsYgPMBvR1Y8xX6Q6&ust=1611577250295000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMid8qDHtO4CFQAAAAAdAAAAABAD",7flix Perth
+https://npc.cdn.7livecloud.io/hls/live/PER6/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeview.com.au%2Ftv-guide&psig=AOvVaw1vXLXfsYgPMBvR1Y8xX6Q6&ust=1611577250295000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMid8qDHtO4CFQAAAAAdAAAAABAD",7flix Regional QLD
+https://npc.cdn.7livecloud.io/hls/live/QLD6/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",openshop National
+https://npc.cdn.7livecloud.io/hls/live/ASN/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",RACING.COM National
+https://npc.cdn.7livecloud.io/hls/live/RAC/masterSD.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",RACING.COM Victoria
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",PAC-12 Sports National
+https://pac12b.cdn.7livecloud.io/index.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",Outdoor Channel National
+https://outdoor.cdn.7livecloud.io/index.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",Fuel TV National
+https://fueltv.cdn.7livecloud.io/hls/live/FTV/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.9now.com.au%2F&psig=AOvVaw159uWG-FwwQy52HWg_jA2J&ust=1611577285246000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLirzbDHtO4CFQAAAAAdAAAAABAD",Channel 9 Sydney
+https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.9now.com.au%2F&psig=AOvVaw159uWG-FwwQy52HWg_jA2J&ust=1611577285246000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLirzbDHtO4CFQAAAAAdAAAAABAD",Channel 9 Melbourne
+https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.9now.com.au%2F&psig=AOvVaw159uWG-FwwQy52HWg_jA2J&ust=1611577285246000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLirzbDHtO4CFQAAAAAdAAAAABAD",Channel 9 Brisbane
+https://9now-livestreams.akamaized.net/hls/live/2008324/ch9-bne/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.9now.com.au%2F&psig=AOvVaw159uWG-FwwQy52HWg_jA2J&ust=1611577285246000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLirzbDHtO4CFQAAAAAdAAAAABAD",Channel 9 Adelaide
+https://9now-livestreams.akamaized.net/hls/live/2008323/ch9-adl/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.9now.com.au%2F&psig=AOvVaw159uWG-FwwQy52HWg_jA2J&ust=1611577285246000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLirzbDHtO4CFQAAAAAdAAAAABAD",Channel 9 Perth
+https://9now-livestreams.akamaized.net/hls/live/2008325/ch9-per/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.9now.com.au%2Flive%2Fgem&psig=AOvVaw1Ks1A1e-ioAtkeayJqo4x8&ust=1611577311247000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDDxrvHtO4CFQAAAAAdAAAAABAD",9Gem Sydney
+https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.9now.com.au%2Flive%2Fgem&psig=AOvVaw1Ks1A1e-ioAtkeayJqo4x8&ust=1611577311247000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDDxrvHtO4CFQAAAAAdAAAAABAD",9Gem Melbourne
+https://9now-livestreams.akamaized.net/hls/live/2008316/gem-mel/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.9now.com.au%2Flive%2Fgem&psig=AOvVaw1Ks1A1e-ioAtkeayJqo4x8&ust=1611577311247000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDDxrvHtO4CFQAAAAAdAAAAABAD",9Gem Brisbane
+https://9now-livestreams.akamaized.net/hls/live/2008315/gem-bne/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.9now.com.au%2Flive%2Fgem&psig=AOvVaw1Ks1A1e-ioAtkeayJqo4x8&ust=1611577311247000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDDxrvHtO4CFQAAAAAdAAAAABAD",9Gem Adelaide
+https://9now-livestreams.akamaized.net/hls/live/2008314/gem-adl/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.9now.com.au%2Flive%2Fgem&psig=AOvVaw1Ks1A1e-ioAtkeayJqo4x8&ust=1611577311247000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDDxrvHtO4CFQAAAAAdAAAAABAD",9Gem Perth
+https://9now-livestreams.akamaized.net/hls/live/2008317/gem-per/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://imageresizer.static9.net.au/HDSeR58oE6Ia1CVL3vGcKvTSaYo=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png",9Go! Sydney
+https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://imageresizer.static9.net.au/HDSeR58oE6Ia1CVL3vGcKvTSaYo=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png",9Go! Melbourne
+https://9now-livestreams.akamaized.net/hls/live/2008318/go-mel/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://imageresizer.static9.net.au/HDSeR58oE6Ia1CVL3vGcKvTSaYo=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png",9Go! Brisbane
+https://9now-livestreams.akamaized.net/hls/live/2008320/go-bne/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://imageresizer.static9.net.au/HDSeR58oE6Ia1CVL3vGcKvTSaYo=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png",9Go! Adelaide
+https://9now-livestreams.akamaized.net/hls/live/2008319/go-adl/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://imageresizer.static9.net.au/HDSeR58oE6Ia1CVL3vGcKvTSaYo=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png",9Go! Perth
+https://9now-livestreams.akamaized.net/hls/live/2008321/go-per/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nineforbrands.com.au%2Fbrand%2F9life%2F&psig=AOvVaw1t25INAVZ943UEYLVAJPQG&ust=1611577338556000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICip8nHtO4CFQAAAAAdAAAAABAD",9Life Sydney
+https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nineforbrands.com.au%2Fbrand%2F9life%2F&psig=AOvVaw1t25INAVZ943UEYLVAJPQG&ust=1611577338556000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICip8nHtO4CFQAAAAAdAAAAABAD",9Life Melbourne
+https://9now-livestreams.akamaized.net/hls/live/2008328/life-bne/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nineforbrands.com.au%2Fbrand%2F9life%2F&psig=AOvVaw1t25INAVZ943UEYLVAJPQG&ust=1611577338556000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICip8nHtO4CFQAAAAAdAAAAABAD",9Life Brisbane
+https://9now-livestreams.akamaized.net/hls/live/2008326/life-adl/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nineforbrands.com.au%2Fbrand%2F9life%2F&psig=AOvVaw1t25INAVZ943UEYLVAJPQG&ust=1611577338556000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICip8nHtO4CFQAAAAAdAAAAABAD",9Life Adelaide
+https://9now-livestreams.akamaized.net/hls/live/2008327/life-per/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nineforbrands.com.au%2Fbrand%2F9life%2F&psig=AOvVaw1t25INAVZ943UEYLVAJPQG&ust=1611577338556000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICip8nHtO4CFQAAAAAdAAAAABAD",9Life Perth
+https://9now-livestreams.akamaized.net/hls/live/2008329/life-mel/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://imageresizer.static9.net.au/hH9FTxAIBxjOxCBYecovIYdTkoI=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png",9Rush Sydney
+https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://imageresizer.static9.net.au/hH9FTxAIBxjOxCBYecovIYdTkoI=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png",9Rush Melbourne
+https://9now-livestreams.akamaized.net/hls/live/2010628/rush-mel/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://imageresizer.static9.net.au/hH9FTxAIBxjOxCBYecovIYdTkoI=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png",9Rush Brisbane
+https://9now-livestreams.akamaized.net/hls/live/2010629/rush-bne/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://imageresizer.static9.net.au/hH9FTxAIBxjOxCBYecovIYdTkoI=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png",9Rush Adelaide
+https://9now-livestreams.akamaized.net/hls/live/2010627/rush-adl/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://imageresizer.static9.net.au/hH9FTxAIBxjOxCBYecovIYdTkoI=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png",9Rush Perth
+https://9now-livestreams.akamaized.net/hls/live/2010630/rush-per/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 2 National
+https://p-9now-live-events.akamaized.net/hls/live/2000258/remote-event-2/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 3 National
+https://p-9now-live-events.akamaized.net/hls/live/2000259/remote-event-3/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 4 National
+https://p-9now-live-events.akamaized.net/hls/live/2000260/remote-event-4/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 5 National
+https://p-9now-live-events.akamaized.net/hls/live/2000261/remote-event-5/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 6 National
+https://p-9now-live-events.akamaized.net/hls/live/2000262/remote-event-6/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 7 National
+https://p-9now-live-events.akamaized.net/hls/live/2000263/remote-event-7/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 8 National
+https://p-9now-live-events.akamaized.net/hls/live/2000264/remote-event-8/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 9 National
+https://p-9now-live-events.akamaized.net/hls/live/2000265/remote-event-9/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 10 National
+https://p-9now-live-events.akamaized.net/hls/live/2000266/remote-event-10/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 11 National
+https://p-9now-live-events.akamaized.net/hls/live/2000267/remote-event-11/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 12 National
+https://p-9now-live-events.akamaized.net/hls/live/2000268/remote-event-12/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 13 National
+https://p-9now-live-events.akamaized.net/hls/live/2000269/remote-event-13/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 14 National
+https://p-9now-live-events.akamaized.net/hls/live/2000270/remote-event-14/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 15 National
+https://p-9now-live-events.akamaized.net/hls/live/2000271/remote-event-15/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 16 National
+https://p-9now-live-events.akamaized.net/hls/live/2000272/remote-event-16/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 17 National
+https://p-9now-live-events.akamaized.net/hls/live/2000273/remote-event-17/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="",9 Tennis 18 National
+https://p-9now-live-events.akamaized.net/hls/live/2000274/remote-event-18/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcredi.com%2Fcredi-9-news-feature%2F&psig=AOvVaw0YGb9AKKDpR4tfB5XEjMjb&ust=1611577382748000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDMwt7HtO4CFQAAAAAdAAAAABAJ",9News Event 1 National
+https://d2glaw7ih6ssjl.cloudfront.net/livea_hd.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcredi.com%2Fcredi-9-news-feature%2F&psig=AOvVaw0YGb9AKKDpR4tfB5XEjMjb&ust=1611577382748000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDMwt7HtO4CFQAAAAAdAAAAABAJ",9News Event 2 National
+https://d1c64thbvur3gg.cloudfront.net/liveb_hd.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcredi.com%2Fcredi-9-news-feature%2F&psig=AOvVaw0YGb9AKKDpR4tfB5XEjMjb&ust=1611577382748000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDMwt7HtO4CFQAAAAAdAAAAABAJ",9News Event 3 National
+https://dt2hhmoirf05i.cloudfront.net/livec_hd.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.9now.com.au%2F&psig=AOvVaw159uWG-FwwQy52HWg_jA2J&ust=1611577285246000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLirzbDHtO4CFQAAAAAdAAAAABAD",Channel 9 Darwin
+https://2-fss-1.streamhoster.com/pl_106/203160-1399238-1/chunklist.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNetwork_10&psig=AOvVaw3hkthxP9WD5ys1rqJI9X8i&ust=1611577416756000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC7ne7HtO4CFQAAAAAdAAAAABAD",Channel 10 Sydney
+https://live.10play.com.au/10NSW/stream.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNetwork_10&psig=AOvVaw3hkthxP9WD5ys1rqJI9X8i&ust=1611577416756000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC7ne7HtO4CFQAAAAAdAAAAABAD",Channel 10 Melbourne
+https://live.10play.com.au/10VIC/stream.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNetwork_10&psig=AOvVaw3hkthxP9WD5ys1rqJI9X8i&ust=1611577416756000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC7ne7HtO4CFQAAAAAdAAAAABAD",Channel 10 Brisbane
+https://live.10play.com.au/10QLD/stream.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNetwork_10&psig=AOvVaw3hkthxP9WD5ys1rqJI9X8i&ust=1611577416756000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC7ne7HtO4CFQAAAAAdAAAAABAD",Channel 10 Adelaide
+https://live.10play.com.au/10SA/stream.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNetwork_10&psig=AOvVaw3hkthxP9WD5ys1rqJI9X8i&ust=1611577416756000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC7ne7HtO4CFQAAAAAdAAAAABAD",Channel 10 Perth
+https://live.10play.com.au/10WA/stream.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/1200px-10_Peach_logo_2018.svg.png",Peach Sydney
+https://live.10play.com.au/10PeachNSW/stream.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/1200px-10_Peach_logo_2018.svg.png",Peach Melbourne
+https://live.10play.com.au/10PeachVIC/stream.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/1200px-10_Peach_logo_2018.svg.png",Peach Brisbane
+https://live.10play.com.au/10PeachQLD/stream.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/1200px-10_Peach_logo_2018.svg.png",Peach Adelaide
+https://live.10play.com.au/10PeachSA/stream.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/1200px-10_Peach_logo_2018.svg.png",Peach Perth
+https://live.10play.com.au/10PeachWA/stream.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2F10play.com.au%2Flive%2Fbold&psig=AOvVaw3OZo1NrQG2rroDFUOFSWUr&ust=1611577456252000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPik7oDItO4CFQAAAAAdAAAAABAD",Bold Sydney
+https://live.10play.com.au/10BoldNSW/stream.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2F10play.com.au%2Flive%2Fbold&psig=AOvVaw3OZo1NrQG2rroDFUOFSWUr&ust=1611577456252000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPik7oDItO4CFQAAAAAdAAAAABAD",Bold Melbourne
+https://live.10play.com.au/10BoldVIC/stream.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2F10play.com.au%2Flive%2Fbold&psig=AOvVaw3OZo1NrQG2rroDFUOFSWUr&ust=1611577456252000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPik7oDItO4CFQAAAAAdAAAAABAD",Bold Brisbane
+https://live.10play.com.au/10BoldQLD/stream.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2F10play.com.au%2Flive%2Fbold&psig=AOvVaw3OZo1NrQG2rroDFUOFSWUr&ust=1611577456252000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPik7oDItO4CFQAAAAAdAAAAABAD",Bold Adelaide
+https://live.10play.com.au/10BoldSA/stream.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2F10play.com.au%2Flive%2Fbold&psig=AOvVaw3OZo1NrQG2rroDFUOFSWUr&ust=1611577456252000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPik7oDItO4CFQAAAAAdAAAAABAD",Bold Perth
+https://live.10play.com.au/10BoldWA/stream.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNetwork_10&psig=AOvVaw3hkthxP9WD5ys1rqJI9X8i&ust=1611577416756000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC7ne7HtO4CFQAAAAAdAAAAABAD",Channel 10 alt
+https://pubads.g.doubleclick.net/ssai/event/kIanX1fxR7isFhfnvLSKTA/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNetwork_10&psig=AOvVaw3hkthxP9WD5ys1rqJI9X8i&ust=1611577416756000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC7ne7HtO4CFQAAAAAdAAAAABAD",Channel 10 alt
+https://pubads.g.doubleclick.net/ssai/event/52M7ojCHQCy4vEFD7YTPpQ/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNetwork_10&psig=AOvVaw3hkthxP9WD5ys1rqJI9X8i&ust=1611577416756000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC7ne7HtO4CFQAAAAAdAAAAABAD",Channel 10 alt
+https://pubads.g.doubleclick.net/ssai/event/qOi3HPO6Tw2L-U4x99U3IQ/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNetwork_10&psig=AOvVaw3hkthxP9WD5ys1rqJI9X8i&ust=1611577416756000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC7ne7HtO4CFQAAAAAdAAAAABAD",Channel 10 alt
+https://pubads.g.doubleclick.net/ssai/event/TrsvqoXmSLK2LYdP4L2gBQ/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNetwork_10&psig=AOvVaw3hkthxP9WD5ys1rqJI9X8i&ust=1611577416756000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC7ne7HtO4CFQAAAAAdAAAAABAD",Channel 10 alt
+https://pubads.g.doubleclick.net/ssai/event/7onGygZjQ9qGwswU7HLIoQ/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/1200px-10_Peach_logo_2018.svg.png",Peach alt
+https://pubads.g.doubleclick.net/ssai/event/g-1wsnh4RZ6khrx3LSzKgQ/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/1200px-10_Peach_logo_2018.svg.png",Peach alt
+https://pubads.g.doubleclick.net/ssai/event/lpej3mYjS86kyzomBIkyng/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/1200px-10_Peach_logo_2018.svg.png",Peach alt
+https://pubads.g.doubleclick.net/ssai/event/V6NokbM8Ra2uKqcQj1uWaA/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/1200px-10_Peach_logo_2018.svg.png",Peach alt
+https://pubads.g.doubleclick.net/ssai/event/3KILVmY1TiSDGBcwBUoRtA/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/1200px-10_Peach_logo_2018.svg.png",Peach alt
+https://pubads.g.doubleclick.net/ssai/event/Pmuoyr8sTmixZqKnuhv3OA/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2F10play.com.au%2Flive%2Fbold&psig=AOvVaw3OZo1NrQG2rroDFUOFSWUr&ust=1611577456252000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPik7oDItO4CFQAAAAAdAAAAABAD",Bold alt
+https://pubads.g.doubleclick.net/ssai/event/p8opNaFvScWXCxAQi_Hd_Q/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2F10play.com.au%2Flive%2Fbold&psig=AOvVaw3OZo1NrQG2rroDFUOFSWUr&ust=1611577456252000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPik7oDItO4CFQAAAAAdAAAAABAD",Bold alt
+https://pubads.g.doubleclick.net/ssai/event/g0vxZF8uTCCD8bKoA4nySQ/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2F10play.com.au%2Flive%2Fbold&psig=AOvVaw3OZo1NrQG2rroDFUOFSWUr&ust=1611577456252000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPik7oDItO4CFQAAAAAdAAAAABAD",Bold alt
+https://pubads.g.doubleclick.net/ssai/event/hTGpTa27ToagDXu0722vdA/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2F10play.com.au%2Flive%2Fbold&psig=AOvVaw3OZo1NrQG2rroDFUOFSWUr&ust=1611577456252000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPik7oDItO4CFQAAAAAdAAAAABAD",Bold alt
+https://pubads.g.doubleclick.net/ssai/event/uaOe3c3CTWSMacikv1mV2g/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2F10play.com.au%2Flive%2Fbold&psig=AOvVaw3OZo1NrQG2rroDFUOFSWUr&ust=1611577456252000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPik7oDItO4CFQAAAAAdAAAAABAD",Bold alt
+https://pubads.g.doubleclick.net/ssai/event/WHvOcu0lQTOL5qYh186RmQ/master.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2F10play.com.au%2Flive%2Fshake&psig=AOvVaw2jeJ5X8Tq22W5lJ5welWF-&ust=1611577613437000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiD-MvItO4CFQAAAAAdAAAAABAD",10Shake National
+https://d1nti87v55zvqc.cloudfront.net/out/v1/8a1d942f281143e0b5d1e0b5179fc160/index.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSBS_(Australian_TV_channel)&psig=AOvVaw3X1IIeQ3XhhZJUQQSlUAB_&ust=1611577481669000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjZxY3ItO4CFQAAAAAdAAAAABAD",SBS ONE National
+https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sbs.com.au%2Fprograms%2Farticle%2F2019%2F05%2F02%2Fhow-watch-sbs-world-movies-and-sbs-viceland-channels&psig=AOvVaw1KU9Ge_7TFM0DXzcjr4kKq&ust=1611577522933000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDT36DItO4CFQAAAAAdAAAAABAD",SBS VICELAND National
+https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSBS_World_Movies&psig=AOvVaw3dfx80qzgqaUpC8joDAvgq&ust=1611577536181000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDZ0KbItO4CFQAAAAAdAAAAABAD",SBS World Movies National
+https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSBS_Food&psig=AOvVaw2LCJRJTGdYLatx8s7PrFoS&ust=1611577560034000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCU3bLItO4CFQAAAAAdAAAAABAD",SBS Food National
+https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FNational_Indigenous_Television&psig=AOvVaw3RlpMbFxZBnVT6gTzzA-eP&ust=1611577574072000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjc1bjItO4CFQAAAAAdAAAAABAD",NITV National
+https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
+#EXTINF:-1 group-title="Foxtel" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foxtel.com.au%2Findex.html&psig=AOvVaw3hpNsGesbE0jHp3TIYlvMP&ust=1611577590922000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDa_sLItO4CFQAAAAAdAAAAABAD",Sky News (Australia Channel) Overseas (VPN Required)
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 group-title="Foxtel" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foxtel.com.au%2Findex.html&psig=AOvVaw3hpNsGesbE0jHp3TIYlvMP&ust=1611577590922000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDa_sLItO4CFQAAAAAdAAAAABAD",Fox Sports News National
+https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8
+#EXTINF:-1 group-title="Foxtel" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foxtel.com.au%2Findex.html&psig=AOvVaw3hpNsGesbE0jHp3TIYlvMP&ust=1611577590922000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDa_sLItO4CFQAAAAAdAAAAABAD",Sky Racing 1 NSW
+https://skyliverwwa-i.akamaihd.net/hls/live/570288/skyliverwwa/sky1rw.m3u8
+#EXTINF:-1 group-title="Foxtel" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foxtel.com.au%2Findex.html&psig=AOvVaw3hpNsGesbE0jHp3TIYlvMP&ust=1611577590922000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDa_sLItO4CFQAAAAAdAAAAABAD",Sky Racing 2 NSW
+https://skyliverwwa-i.akamaihd.net/hls/live/570288/skyliverwwa/sky2rw.m3u8
+#EXTINF:-1 group-title="Foxtel" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foxtel.com.au%2Findex.html&psig=AOvVaw3hpNsGesbE0jHp3TIYlvMP&ust=1611577590922000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDa_sLItO4CFQAAAAAdAAAAABAD",Sky Greyhound (Watchdog) 
+https://skylivegrv-i.akamaihd.net/hls/live/780031/skylivegrv/grv_extreme@780031.m3u8
+#EXTINF:-1 group-title="Foxtel" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foxtel.com.au%2Findex.html&psig=AOvVaw3hpNsGesbE0jHp3TIYlvMP&ust=1611577590922000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDa_sLItO4CFQAAAAAdAAAAABAD",Thoroughbred Central NSW
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8
+#EXTINF:-1 group-title="Foxtel" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foxtel.com.au%2Findex.html&psig=AOvVaw3hpNsGesbE0jHp3TIYlvMP&ust=1611577590922000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDa_sLItO4CFQAAAAAdAAAAABAD",Sky News Extra 1 National
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 group-title="Foxtel" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foxtel.com.au%2Findex.html&psig=AOvVaw3hpNsGesbE0jHp3TIYlvMP&ust=1611577590922000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDa_sLItO4CFQAAAAAdAAAAABAD",Sky News Extra 2 National
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 group-title="Foxtel" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foxtel.com.au%2Findex.html&psig=AOvVaw3hpNsGesbE0jHp3TIYlvMP&ust=1611577590922000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDa_sLItO4CFQAAAAAdAAAAABAD",Sky News Extra 3 National
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 group-title="Community Television" tvg-logo="",C31 Melbourne
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/index_150_av-p.m3u8
+#EXTINF:-1 group-title="Community Television" tvg-logo="",C44 Adelaide
+https://bdz47wk-lh.akamaihd.net/i/bdz47wkvo0zjom_1@1017167/master.m3u8
+#EXTINF:-1 group-title="Community Television" tvg-logo="",WTV Perth
+Removed: Broken
+#EXTINF:-1 group-title="Radio Video Streams" tvg-logo="",Macquarie Sports National
+https://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/master.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Radio Video Streams" tvg-logo="",4BC Brisbane Brisbane
+http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+#EXTINF:-1 group-title="Radio Video Streams" tvg-logo="",3AW Melbourne Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+#EXTINF:-1 group-title="Other Australian" tvg-logo="",EXPO National
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:-1 group-title="Other Australian" tvg-logo="",Bloomberg National
+http://cdn-videos.akamaized.net/btv/desktop/akamai/asia/live/primary.m3u8
+#EXTINF:-1 group-title="Other Australian" tvg-logo="",TVSN National
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
+#EXTINF:-1 group-title="Other Australian" tvg-logo="",ACCTV National
+http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_14949_1.m3u8
+#EXTINF:-1 group-title="Other Australian" tvg-logo="",Fetch TV Movie Trailers National
+http://cdnl.fetchtv.micdn.net.au//trail/mobile.m3u8
+#EXTINF:-1 group-title="Other Australian" tvg-logo="",Skuff TV National
+https://stream-01.sv6.dailymotion.com/49/dm/3/x2nnqfd/live-1.m3u8
+#EXTINF:-1 group-title="Other Australian" tvg-logo="",Hillsong TV National
+http://acaooyalahd2-lh.akamaihd.net/i/TBN20_delivery@394530/index_2528_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Other Australian" tvg-logo="",SBN (Sonlife) National
+http://sonlifef.edgesuite.net/files/alt/m3u8/en/master.m3u8
+#EXTINF:-1 group-title="Other Australian" tvg-logo="",Ausbiz TV National
+https://d9quh89lh7dtw.cloudfront.net/public-output/index_1280x720_3000k.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Wall St Journal Events United States
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",The Edge (NZ VPN) New Zealand
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",TV3 Newshub New Zealand
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Parliament Tv New Zealand
+http://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",MSNBC United States
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Fox News United States
+http://fnctve-I.akamaihd.net/hls/live/200669/fnctve/HD.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Fox 30 News United States
+https://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/1864k/index.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Fox 23 News United States
+https://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Fox News Talk Radio United States
+https://streaming-ent.shoutcast.com/foxnews
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",ABC News Live United States
+http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&b=800-2500&rebase=on
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",ABC News Extra United States
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8 
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",CBS News United States
+https://www.cbsnews.com/common/video/cbsn_stitched.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Newsmax Tv United States
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",WGN News Chicago United States
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",WJAX CBS47 Florida United States
+http://cmghlslive-i.akamaihd.net/hls/live/224714/WJAX/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",WFTV 9 Orlando United States
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",C-SPAN United States
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",C-SPAN 2 United States
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",C-SPAN 3 United States
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Bloomberg United States
+http://cdn-videos.akamaized.net/btv/desktop/akamai/usa/live/primary.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Weather Nation United States
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",WSOC TV United States
+http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",WPXI TV United States
+http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Global Halifax Canada
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Global British Colombia Canada
+https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Global Toronto Canada
+https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",City TV Calgary Canada
+http://btflash-lh.akamaihd.net/i/BTCALFLASH_live@120221/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",City TV Montreal Canada
+http://btflash-lh.akamaihd.net/i/BTMTLFLASH_live@120220/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",City TV Toronto Canada
+http://btflash-lh.akamaihd.net/i/BTTOFLASH_live@120219/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",City TV Vancouver Canada
+http://btflash-lh.akamaihd.net/i/BTVANFLASH_live@120224/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Sky News UK United Kingdom
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404.live/04.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",RTE News Now Ireland
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",RTE News Now Ireland
+http://cdn.rasset.ie/hls-live/_definst_/newsnow/newsnow-576.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Euronews Europe
+http://euronews-en-p9-cdn.hexaglobe.net/b3d6063f8fb8d18749c6616f03034b5e/59561dea/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenpri_eng.smil/playlist.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Bloomberg Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Russia Today Russia
+https://secure-streams.akamaized.net/rt/index2500.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Russia Today US Feed Russia
+https://secure-streams.akamaized.net/rt-usa/index2500.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Russia Today UK Feed Russia
+https://secure-streams.akamaized.net/rt-uk/index2500.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",RT Documentary Russia
+https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",France 24 English France
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Deutche Welle English Germany
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8 
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Sky News Arabia Abu Dhabi
+http://stream.skynewsarabia.com/stream/snahls_med.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Al Jazeera English UAE
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8 
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",TRT World Turkey
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",NDTV 24x7 News India
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",NDTV Profit India
+http://ndtvstream-lh.akamaihd.net/i/ndtv_profit_1@300635/master.m3u8?b=256,384
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",NDTV India India
+https://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/master.m3u8?set-segment-duration=quality&b=256,384
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",CGTN China
+http://live.cgtn.com/manifest.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",CGTN Documentary China
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Arirang World South Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Arirang Korea South Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Arirang UN South Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",Animal Planet United States
+http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",BBC Arabia Middle East
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",KITV Island News ABC Hawaii
+http://play-prod1.live.anvato.net/server/play/hearst-kitv-dfp/master.m3u8
+#EXTINF:-1 group-title="News & Documentaries" tvg-logo="",KITV Stream 2 Hawaii
+http://54.163.107.81/server/play/hearst-kitv-dfp/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",VSIN United States
+https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",PAC-12 Sports United States
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",Fox Sports 1 United States
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sports" tvg-logo="",MLB Network United States
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",NBC Olympics 24/7 United States
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",NFL Now United States
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",Eurosport 1 Europe
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",Eurosport 1 HD (French) France
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",Bein Sports 1 Indonesia
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/playlist.m3u8?stime=20170805022648&etime=20170805062648&encoded=0e04c52fabd249955db43
+#EXTINF:-1 group-title="Sports" tvg-logo="",RedBull TV Worldwide
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",Real Madrid TV (ES) Spain
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",Real Madrid TV (ENG) Spain
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",TRT Sport Turkey
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-b.m3u8?
+#EXTINF:-1 group-title="Sports" tvg-logo="",Edge Sport 
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Stingray Greatest Hits Global
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Stingray 80's Global
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Stingray 70's Global
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Stingray Hot Country Global
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Stingray Classic Rock Global
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Stingray Karaoke Global
+https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Stingray Alternative Global
+https://stirr.ott-channels.stingray.com/102/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Stingray Pop Adult Global
+https://stirr.ott-channels.stingray.com/104/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Stingray Hit List Global
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",The Edge New Zealand
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",The Country Network United States
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Miami TV United States
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",CMC United States
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",CMC Beat Lounge United States
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/Mobile/CMCLateNite_2017_0326.smil.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice United States
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Brits Hits United States
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Dance United States
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice R&B United States
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Hit List United States
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Indie United States
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Kids Only United States
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Metal United States
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Mexicana United States
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Urbana United States
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Pop & Country United States
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Pop Hits United States
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Pop Latino United States
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice R&B Soul United States
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Rap United States
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Rap 2K United States
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Rock United States
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Teen Beats United States
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Throwback United States
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Today United States
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Toddler United States
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Tropicalez United States
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Choice Y2K United States
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Ditty TV United States
+http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Capital TV United Kingdom
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_2628_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Music" tvg-logo="",Heart TV United Kingdom
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Music" tvg-logo="",City Radio.TV Europe
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Virgin Music TV Italy
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Retro Music Television Czech Republic
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Hit TV Estonia
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Nebiset Russia
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Trendy Channel Asia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Rap Resurrection Unknown
+http://edge2.tikilive.com:1935/unrestricted_tikilive/36008/amlst:amKEQ2Y2gYN4/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",Drum and Basslines TV World
+rtmp://vs2.drumandbasslines.com/DnBTV/ch1
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",TV3 Special Events New Zealand
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/event_live/master.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",Adult Swim United States
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",Adultswim Toonami United States
+http://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",Fish TV United States
+http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream3/playlist.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",The Outdoor Cooking Channel United States
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w996888467_b1006700.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",Law & Crime Trial Network United States
+https://ssai.ooyala.com/hls/delta/cflive-use/out/u/yanejvyjuqpw5/111827/43OWVjZTE65GskF69ZcXWykXcnScRY5u/cn/d55a880cca4b4b0d8705ae78f89c2960.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",Uni Of California TV United States
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",The Florida Channel United States
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",AMG United States
+http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",REV'N United States
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",NASA TV United States
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_700.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",NASA TV 2 United States
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master_2000.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",Me TV United States
+http://video.metv.com/metv/index.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",Sony Movies United Kingdom
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",London Live United Kingdom
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",Insight HD United Kingdom
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",RTE Jr Ireland
+http://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",RUV1 Iceland
+http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv/index.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",Twit Tech Online
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="General Entertainment" tvg-logo="",earthTV World
+http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
+#EXTINF:-1 group-title="Shopping" tvg-logo="",TVSN New Zealand
+http://tvsn-lh.akamaihd.net/i/TVSN_NZ_1@137553/master.m3u8
+#EXTINF:-1 group-title="Shopping" tvg-logo="",HSN (Home Shopping) United States
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+#EXTINF:-1 group-title="Shopping" tvg-logo="",Ideal World United Kingdom
+http://live.iw.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+#EXTINF:-1 group-title="Shopping" tvg-logo="",Create and Craft United Kingdom
+http://vod.cc.simplestreamcdn.com/mediacache/_definst_/smil:http/2/catchuptv/1/1677680_noaudio.smil/playlist.m3u8
+#EXTINF:-1 group-title="Shopping" tvg-logo="",QVC United Kingdom
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8?dvr_window_length=18
+#EXTINF:-1 group-title="Shopping" tvg-logo="",QVC Beauty United Kingdom
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8?dvr_window_length=18
+#EXTINF:-1 group-title="Shopping" tvg-logo="",QVC Style United Kingdom
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8?dvr_window_length=18
+#EXTINF:-1 group-title="Shopping" tvg-logo="",QVC Extra United Kingdom
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8?dvr_window_length=18
+#EXTINF:-1 group-title="Shopping" tvg-logo="",QVC Plus United Kingdom
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8?dvr_window_length=18
+#EXTINF:-1 group-title="Shopping" tvg-logo="",QVC US United States
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+#EXTINF:-1 group-title="Special Interest" tvg-logo="",Shine TV New Zealand
+http://rhema.streamguys1.com/live/smil:shinetv.smil/chunklist_w1819023898_b1280000.m3u8
+#EXTINF:-1 group-title="Special Interest" tvg-logo="",Firstlight New Zealand
+rtmp://streamer1.streamhost.org/salive/GMIFLNL
+#EXTINF:-1 group-title="Special Interest" tvg-logo="",CBN Spain
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1 group-title="Special Interest" tvg-logo="",Angel TV India
+http://doh57iesfegop.cloudfront.net/angeltv/angeltvindia600/master.m3u8
+#EXTINF:-1 group-title="Special Interest" tvg-logo="",Ozi Indian Australia
+http://live.wmncdn.net/abr/e9add88ea91efb71c00f5ade2f4c3fc0.m3u8
+#EXTINF:-1 group-title="Special Interest" tvg-logo="",Ankhila Punjab TV New Zealand
+http://wpc.c175.taucdn.net/hls-live/20C175/ankhilapunjabz/wmlkjkj5343utueuuwxssd/rbstreamrb.m3u8
+#EXTINF:-1 group-title="Special Interest" tvg-logo="",Peace TV United States
+rtmp://peace.fms.visionip.tv/live//b2b-peace_usa-live-25f-4x3-sdh_1
+#EXTINF:-1 group-title="Special Interest" tvg-logo="",Sonlife International International
+http://sonlife-i.akamaihd.net/hls/live/250092-b/internationalvtt/master.m3u8
+#EXTINF:-1 group-title="Special Interest" tvg-logo="",Rai Italia 6 Italy
+http://originstream6.rai.it/italy/smil:raistoria.smil/chunklist_b900000.m3u8
+#EXTINF:-1 group-title="Special Interest" tvg-logo="",3ABN International International
+http://aos01.3abn.adaptive.level3.net/hls-live/mediaoppremux-int_multi/_definst_/live/stream3.m3u8
+#EXTINF:-1 group-title="Special Interest" tvg-logo="",3ABN International
+http://aos01.3abn.adaptive.level3.net/hls-live/mediaoppremux-3abn_multi/_definst_/live/stream3.m3u8
+#EXTINF:-1 group-title="Special Interest" tvg-logo="",3ABN Proclaim International
+http://aos01.3abn.adaptive.level3.net/hls-live/mediaoppremux-pro_multi/_definst_/live/stream3.m3u8
+#EXTINF:-1 group-title="Multilingual" tvg-logo="",Chinese TV 33 New Zealand
+http://edge1.worldnettv.co.nz/live/tv33.stream/playlist.m3u8
+#EXTINF:-1 group-title="Multilingual" tvg-logo="",Wairarapa TV New Zealand
+http://live-24.viewer.dacast.com/i/dclive_1@126656/master.m3u8
